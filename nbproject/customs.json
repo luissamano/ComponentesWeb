@@ -1,0 +1,12 @@
+{
+    "elements": {
+        "p:graphicImage": {},
+        "h:panelGrid": {},
+        "p:accordionPanel": {},
+        "p:growl": {},
+        "p:tab": {},
+        "h:outputText": {},
+        "h:form": {}
+    },
+    "attributes": {}
+}

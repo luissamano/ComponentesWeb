@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="componentes2.xhtml" x="-139" y="287" zoom="true"/>
+        <Node id="componentes1.xhtml" x="-143" y="198" zoom="false"/>
+        <Node id="index.xhtml" x="147" y="37" zoom="true"/>
+        <Node id="componentes4.xhtml" x="361" y="261" zoom="true"/>
+        <Node id="componentesExamen.xhtml" x="582" y="43" zoom="true"/>
+        <Node id="componentes3.xhtml" x="364" y="198" zoom="true"/>
+        <Node id="menu.xhtml" x="142" y="189" zoom="true"/>
+        <Node id="componentes5.xhtml" x="387" y="395" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
